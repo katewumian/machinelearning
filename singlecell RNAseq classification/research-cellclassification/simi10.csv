@@ -1,0 +1,147 @@
+UBERON:0002435 striatum,UBERON:0001851 cortex,0.140475733
+UBERON:0002435 striatum,CL:0000540 neuron,0.115377942
+UBERON:0002435 striatum,UBERON:0001891 midbrain,0.101611731
+UBERON:0002435 striatum,CL:0002319 neural cell,0.115377942
+UBERON:0002435 striatum,UBERON:0000955 brain,0.507527254
+UBERON:0002435 striatum,UBERON:0002038 substantia nigra,0.122154319
+CL:0002322 embryonic stem cell,UBERON:0000922 embryo,0.156094265
+UBERON:0001851 cortex,UBERON:0002435 striatum,0.140475733
+UBERON:0001851 cortex,CL:0000540 neuron,0.152555088
+UBERON:0001851 cortex,CL:0002319 neural cell,0.152555088
+UBERON:0001851 cortex,UBERON:0000955 brain,0.436201501
+UBERON:0001851 cortex,UBERON:0001954 Ammon's horn,0.138174437
+UBERON:0001851 cortex,UBERON:0001885 dentate gyrus of hippocampal formation,0.136367122
+UBERON:0000044 dorsal root ganglion,CL:0000540 neuron,0.35378549
+UBERON:0000044 dorsal root ganglion,CL:0002319 neural cell,0.35378549
+UBERON:0000044 dorsal root ganglion,UBERON:0000045 ganglion,0.670765735
+UBERON:0001898 hypothalamus,UBERON:0000955 brain,0.563705935
+UBERON:0001898 hypothalamus,UBERON:0000007 pituitary gland,0.727749289
+CL:0000540 neuron,UBERON:0002435 striatum,0.115377942
+CL:0000540 neuron,UBERON:0001851 cortex,0.152555088
+CL:0000540 neuron,UBERON:0000044 dorsal root ganglion,0.35378549
+CL:0000540 neuron,CL:0000687 R1 photoreceptor cell,0.525446781
+CL:0000540 neuron,UBERON:0001891 midbrain,0.228343507
+CL:0000540 neuron,UBERON:0001997 olfactory epithelium,0.208653572
+CL:0000540 neuron,CL:0002319 neural cell,1
+CL:0000540 neuron,UBERON:0000966 retina,0.233261721
+CL:0000540 neuron,UBERON:0000955 brain,0.326148065
+CL:0000540 neuron,UBERON:0000045 ganglion,0.302878845
+CL:0000540 neuron,UBERON:0001954 Ammon's horn,0.235112732
+CL:0000540 neuron,UBERON:0002038 substantia nigra,0.215641449
+CL:0000540 neuron,CL:0000127 astrocyte,0.191885226
+CL:0002321 embryonic cell,UBERON:0000922 embryo,0.244192716
+CL:0000037 hematopoietic stem cell,CL:0002092 bone marrow cell,0.64157481
+CL:0000037 hematopoietic stem cell,CL:0000988 hematopoietic cell,0.233602284
+CL:0000037 hematopoietic stem cell,CL:0002034 long term hematopoietic stem cell,0.409223258
+CL:0000037 hematopoietic stem cell,CL:0002033 short term hematopoietic stem cell,0.400081991
+CL:0000037 hematopoietic stem cell,CL:0000081 blood cell,0.181645491
+UBERON:0001891 midbrain,UBERON:0002435 striatum,0.101611731
+UBERON:0001891 midbrain,CL:0000540 neuron,0.228343507
+UBERON:0001891 midbrain,CL:0002319 neural cell,0.228343507
+UBERON:0001891 midbrain,UBERON:0000955 brain,0.527182103
+UBERON:0001891 midbrain,UBERON:0002038 substantia nigra,0.618624776
+UBERON:0001997 olfactory epithelium,CL:0000540 neuron,0.208653572
+UBERON:0001997 olfactory epithelium,CL:0002319 neural cell,0.208653572
+UBERON:0001997 olfactory epithelium,UBERON:0000955 brain,0.171439971
+CL:0002034 long term hematopoietic stem cell,CL:0002092 bone marrow cell,0.408733008
+CL:0002034 long term hematopoietic stem cell,CL:0000037 hematopoietic stem cell,0.409223258
+CL:0002034 long term hematopoietic stem cell,CL:0002033 short term hematopoietic stem cell,0.56097561
+CL:0002033 short term hematopoietic stem cell,CL:0002092 bone marrow cell,0.400023453
+CL:0002033 short term hematopoietic stem cell,CL:0000988 hematopoietic cell,0.100078131
+CL:0002033 short term hematopoietic stem cell,CL:0000037 hematopoietic stem cell,0.400081991
+CL:0002033 short term hematopoietic stem cell,CL:0002034 long term hematopoietic stem cell,0.56097561
+CL:0002033 short term hematopoietic stem cell,CL:0000081 blood cell,0.100001122
+CL:0002033 short term hematopoietic stem cell,CL:0000763 myeloid cell,0.15000473
+CL:0002319 neural cell,UBERON:0002435 striatum,0.115377942
+CL:0002319 neural cell,UBERON:0001851 cortex,0.152555088
+CL:0002319 neural cell,UBERON:0000044 dorsal root ganglion,0.35378549
+CL:0002319 neural cell,CL:0000540 neuron,1
+CL:0002319 neural cell,CL:0000687 R1 photoreceptor cell,0.525446781
+CL:0002319 neural cell,UBERON:0001891 midbrain,0.228343507
+CL:0002319 neural cell,UBERON:0001997 olfactory epithelium,0.208653572
+CL:0002319 neural cell,UBERON:0000966 retina,0.233261721
+CL:0002319 neural cell,UBERON:0000955 brain,0.326148065
+CL:0002319 neural cell,UBERON:0000045 ganglion,0.302878845
+CL:0002319 neural cell,UBERON:0001954 Ammon's horn,0.235112732
+CL:0002319 neural cell,UBERON:0002038 substantia nigra,0.215641449
+CL:0002319 neural cell,CL:0000127 astrocyte,0.191885226
+CL:0000235 macrophage,CL:0002092 bone marrow cell,0.127979963
+CL:0000235 macrophage,CL:0000081 blood cell,0.181439671
+CL:0000235 macrophage,CL:0000763 myeloid cell,0.751176672
+UBERON:0000966 retina,CL:0000540 neuron,0.233261721
+UBERON:0000966 retina,CL:0000687 R1 photoreceptor cell,0.602755705
+UBERON:0000966 retina,CL:0002319 neural cell,0.233261721
+UBERON:0000966 retina,UBERON:0001782 pigmented layer of retina,0.516735114
+UBERON:0001264 pancreas,CL:0000169 type B pancreatic cell,0.551029283
+UBERON:0001264 pancreas,CL:0000163 endocrine cell,0.176517106
+UBERON:0000473 testis,CL:0000163 endocrine cell,0.211852247
+CL:0000169 type B pancreatic cell,UBERON:0001264 pancreas,0.551029283
+CL:0000169 type B pancreatic cell,CL:0000163 endocrine cell,0.616202862
+UBERON:0002048 lung,UBERON:0000115 lung epithelium,0.290468379
+CL:0000084 T cell,CL:0000451 dendritic cell,0.258730627
+CL:0000084 T cell,CL:0002365 medullary thymic epithelial cell,0.209070918
+CL:0000084 T cell,CL:0000081 blood cell,0.650111876
+UBERON:0000922 embryo,CL:0002322 embryonic stem cell,0.156094265
+UBERON:0000922 embryo,CL:0002321 embryonic cell,0.244192716
+UBERON:0000922 embryo,CL:2000042 embryonic fibroblast,0.118163141
+UBERON:0000922 embryo,CL:0000163 endocrine cell,0.145476914
+UBERON:0000922 embryo,CL:0000353 blastoderm cell,0.501271732
+UBERON:0000955 brain,UBERON:0002435 striatum,0.507527254
+UBERON:0000955 brain,UBERON:0001851 cortex,0.436201501
+UBERON:0000955 brain,UBERON:0001898 hypothalamus,0.563705935
+UBERON:0000955 brain,CL:0000540 neuron,0.326148065
+UBERON:0000955 brain,UBERON:0001891 midbrain,0.527182103
+UBERON:0000955 brain,UBERON:0001997 olfactory epithelium,0.171439971
+UBERON:0000955 brain,CL:0002319 neural cell,0.326148065
+UBERON:0000955 brain,UBERON:0001954 Ammon's horn,0.54534233
+UBERON:0000955 brain,UBERON:0002038 substantia nigra,0.506448942
+UBERON:0000955 brain,UBERON:0010743 meningeal cluster,0.222233142
+UBERON:0000955 brain,UBERON:0001885 dentate gyrus of hippocampal formation,0.318185003
+UBERON:0000955 brain,CL:0000127 astrocyte,0.280433108
+UBERON:0000955 brain,UBERON:0000007 pituitary gland,0.529017963
+UBERON:0000045 ganglion,UBERON:0000044 dorsal root ganglion,0.670765735
+UBERON:0000045 ganglion,CL:0000540 neuron,0.302878845
+UBERON:0000045 ganglion,CL:0002319 neural cell,0.302878845
+UBERON:0001954 Ammon's horn,UBERON:0001851 cortex,0.138174437
+UBERON:0001954 Ammon's horn,CL:0000540 neuron,0.235112732
+UBERON:0001954 Ammon's horn,CL:0002319 neural cell,0.235112732
+UBERON:0001954 Ammon's horn,UBERON:0000955 brain,0.54534233
+UBERON:0001954 Ammon's horn,UBERON:0001885 dentate gyrus of hippocampal formation,0.227297813
+CL:0000057 fibroblast,CL:2000042 embryonic fibroblast,0.244759777
+CL:0000057 fibroblast,CL:0000192 smooth muscle cell,0.1040545
+UBERON:0002038 substantia nigra,UBERON:0002435 striatum,0.122154319
+UBERON:0002038 substantia nigra,CL:0000540 neuron,0.215641449
+UBERON:0002038 substantia nigra,UBERON:0001891 midbrain,0.618624776
+UBERON:0002038 substantia nigra,CL:0002319 neural cell,0.215641449
+UBERON:0002038 substantia nigra,UBERON:0000955 brain,0.506448942
+UBERON:0000115 lung epithelium,UBERON:0002048 lung,0.290468379
+CL:0000163 endocrine cell,UBERON:0001264 pancreas,0.176517106
+CL:0000163 endocrine cell,UBERON:0000473 testis,0.211852247
+CL:0000163 endocrine cell,CL:0000169 type B pancreatic cell,0.616202862
+CL:0000163 endocrine cell,UBERON:0000922 embryo,0.145476914
+CL:0000163 endocrine cell,UBERON:0000992 female gonad,0.159972832
+UBERON:0010743 meningeal cluster,UBERON:0000955 brain,0.222233142
+CL:0002365 medullary thymic epithelial cell,CL:0000084 T cell,0.209070918
+CL:0002365 medullary thymic epithelial cell,CL:0000081 blood cell,0.210443246
+CL:0000127 astrocyte,CL:0000540 neuron,0.191885226
+CL:0000127 astrocyte,CL:0002319 neural cell,0.191885226
+CL:0000127 astrocyte,UBERON:0000955 brain,0.280433108
+UBERON:0000007 pituitary gland,UBERON:0001898 hypothalamus,0.727749289
+UBERON:0000007 pituitary gland,UBERON:0000955 brain,0.529017963
+UBERON:0000992 female gonad,CL:0000163 endocrine cell,0.159972832
+CL:0000081 blood cell,CL:0002092 bone marrow cell,0.369495008
+CL:0000081 blood cell,CL:0000451 dendritic cell,0.309062462
+CL:0000081 blood cell,CL:0000988 hematopoietic cell,0.127121389
+CL:0000081 blood cell,CL:0000037 hematopoietic stem cell,0.181645491
+CL:0000081 blood cell,CL:0002033 short term hematopoietic stem cell,0.100001122
+CL:0000081 blood cell,CL:0000235 macrophage,0.181439671
+CL:0000081 blood cell,CL:0000084 T cell,0.650111876
+CL:0000081 blood cell,CL:0002365 medullary thymic epithelial cell,0.210443246
+CL:0000081 blood cell,CL:0000763 myeloid cell,0.416095833
+CL:0008019 mesenchymal cell,CL:0002092 bone marrow cell,0.132387731
+CL:0000763 myeloid cell,CL:0002092 bone marrow cell,0.351587285
+CL:0000763 myeloid cell,CL:0000451 dendritic cell,0.119785756
+CL:0000763 myeloid cell,CL:0002033 short term hematopoietic stem cell,0.15000473
+CL:0000763 myeloid cell,CL:0000235 macrophage,0.751176672
+CL:0000763 myeloid cell,CL:0000081 blood cell,0.416095833
+CL:0000192 smooth muscle cell,CL:0000057 fibroblast,0.1040545
